@@ -1,0 +1,7 @@
+li:only-of-type { 
+    list-style-type: none; 
+}
+
+.display_log {
+    width: 50%;
+}
